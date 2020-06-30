@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513836604851",
+    "firebase_url": "https://bestlocalchef-31138.firebaseio.com",
+    "project_id": "bestlocalchef-31138",
+    "storage_bucket": "bestlocalchef-31138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513836604851:android:384d742b6e22ce6b64ffc6",
+        "android_client_info": {
+          "package_name": "com.bestlocalchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513836604851-ohe1fnoihasof6ar4h9sok9m6eb9s3gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_Yu7r3ibz2WZ3um51ca6zhwokzXqARo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513836604851-ohe1fnoihasof6ar4h9sok9m6eb9s3gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
